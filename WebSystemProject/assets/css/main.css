@@ -1,0 +1,26 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3e8ff;
+  color: #333333;
+  margin: 30px;
+}
+
+h1 {
+  color: #7e22ce;
+}
+
+img {
+  border: 3px solid #a855f7;
+  border-radius: 10px;
+}
+
+a {
+  color: #7e22ce;
+  text-decoration: none;
+}
+
+input, textarea {
+  padding: 8px;
+  margin-top: 5px;
+}
